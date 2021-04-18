@@ -1,1 +1,3 @@
-# WeatherPro
+<h1> Weather Pro </h1>
+
+<p> This is a weather app that is designed using Java. The app automatically finds the location of the user based on the user's current IP address and the location is then passed into an API and the weather data is gathered and is displayed. The user can also find the weather of a particular location if needed. It shows all the available weather data and even displays the sunrise and sunset time. The background of the application changes based on the time. If the user wants to print the result, the "Create Report" button will create a new HTML document and will display the information on the webpage. </p> 
